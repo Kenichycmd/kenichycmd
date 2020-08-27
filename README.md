@@ -6,7 +6,7 @@ Projects I'm working on:
 - ConfigPing
   - 6/17/2020 Started the project.
   - 7/23/2020 Renamed the project.
-- DiscordPresences
+- ~DiscordPresences~
   - 8/14/2020 Started the project.
   - 8/27/2020 Cancelled the project.
 ## About my website
