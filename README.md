@@ -8,6 +8,7 @@ Projects I'm working on:
   - 7/23/2020 Renamed the project.
 - DiscordPresences
   - 8/14/2020 Started the project.
+  - 8/27/2020 Cancelled the project.
 ## About my website
 Nothing here yet!
 ## Continued Later!
