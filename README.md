@@ -17,7 +17,11 @@ Projects I'm working on:
 
 #### My website is mainly based off my custom API and random projects I make.
 
+The website wont be running so you might just have to wait a bit.
+
 If you would like to use my custom API visit https://api.kn-1.net/
+
+Max API uses is 200. Might increase later on.
 
 If you don't know how to use my API, its alright! You can still use it without any cURL / PHP knowledge! Just use https://tools.kn-1.net/
 
