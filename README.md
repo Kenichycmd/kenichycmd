@@ -27,7 +27,7 @@ Max API uses is 200. Might increase later on. [Note: Using Kenichy.DEV blog will
 
 If you don't know how to use my API, its alright! You can still use it without any cURL / PHP knowledge! Just use https://tools.kenichy.dev/
 
-I will be adding more to the About my website page and yeah thats about it for this section. https://kenichy.dev/
+GitHub ReadMe page: https://kenichy.dev/
 
 Ask me anything or respond to comments. [Powered by AskQuestionQueryJS] https://ask.kenichy.dev/
 
@@ -38,7 +38,7 @@ Official Kenichycmd Blog. https://blog.kenichy.dev/
 * Blog: https://blog.kenichy.dev/
 * Twitter: https://twitter.com/Kenichycmd
 * YouTube: https://www.youtube.com/c/Kenichycmd
-* Discord: Kenichycmd#4402 | https://discord.gg/hmzz8Qb
+* Discord: Kenichycmd#4402 or https://discord.gg/hmzz8Qb
 * SoundCloud: https://soundcloud.com/Kenichycmd
 * Minecraft: Kenichycmd
-* Email: console@kenichy.dev | kenichycmd@gmail.com
+* Email: console@kenichy.dev or kenichycmd@gmail.com
