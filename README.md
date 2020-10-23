@@ -9,7 +9,7 @@ Projects I'm working on:
   | ConfigPing            | 7/23/2020 Renamed Project     | Java         | No Website Yet    |
   | Linux Hotkey Slot Fix | 9/27/2020 Started Project     | Java         | No Website Yet    |
   | AskQuestionQueryJS    | 9/25/2020 Started Project     | NodeJS       | No Website Yet    |
-  | ~DiscordPresences~    | 8/27/2020 Cancelled Project   | C#           | No Website Yet    |
+  | DiscordPresences      | 8/27/2020 Cancelled Project   | C#           | No Website Yet    |
  
  Operating System I'm currently using:
  - Ubuntu 20.04 (Main)
@@ -39,6 +39,8 @@ Official Kenichycmd Blog. https://blog.kenichy.dev/
 * Twitter: https://twitter.com/Kenichycmd
 * YouTube: https://www.youtube.com/c/Kenichycmd
 * Discord: Kenichycmd#4402 or https://discord.gg/hmzz8Qb
+* Telegram: https://t.me/kenichyc
+* Steam: https://steamcommunity.com/id/Kenichycmd
 * SoundCloud: https://soundcloud.com/Kenichycmd
 * Minecraft: Kenichycmd
-* Email: console@kenichy.dev or kenichycmd@gmail.com
+* Email: kenichycmd@gmail.com, kenichycmd@yahoo.com or console@kenichy.dev
